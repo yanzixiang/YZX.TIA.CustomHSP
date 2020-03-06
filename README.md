@@ -6,7 +6,7 @@
 3. 为解决以上两个问题，西门子推出了硬件支持包的概念，[面向-tia-portal-中的硬件目录的支持包](https://support.industry.siemens.com/cs/document/72341852/%E9%9D%A2%E5%90%91-tia-portal-%E4%B8%AD%E7%A1%AC%E4%BB%B6%E7%9B%AE%E5%BD%95%E7%9A%84%E6%94%AF%E6%8C%81%E5%8C%85-(hsp)?dti=0&lc=zh-CN)。
 4. 但还有些产品不能得到官方支持，广大工程调试人员只能使用近似产品进行替代组态，可每次下载程序或组态数据时，
    都需要手动确认(如图)，频繁操作既浪费时间又会影响心情。
-![](https://github.com/yanzixiang/YZX.TIA.CustomHSP/blob/master/images/%E6%97%A0%E5%8A%A8%E4%BD%9C.jpg?raw=true)
+![](https://github.com/yanzixiang/YZX.TIA.CustomHSP/blob/master/images/%E6%97%A0%E5%8A%A8%E4%BD%9C.png?raw=true)
 ![](https://github.com/yanzixiang/YZX.TIA.CustomHSP/blob/master/images/%E5%85%A8%E9%83%A8%E6%8E%A5%E5%8F%97.jpg?raw=true)
 
 5.为解决此痛点，特推出自定义硬件支持包服务，只需提供博图版本号和上图中"无动作"前红圏内的信息，即可为您生成一份自定义硬件支持包，
@@ -20,7 +20,7 @@
 
    |![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/SK/weixin.png)|![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/SK/891582546.jpg)|![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/SK/1580970624.jpg)|
 
-   只要有一个人为某一个字付过款后，这个字的路径就会在这里上传好，之后其他人想要使用的话，可以直接取用。
+   只要有一个人为某每个版本每个订货号付过款后，自定义硬件支持包就会在这里上传好，之后其他人想要使用的话，可以直接取用。
 
 7. 如果项目转给未使用自定义硬件支持包的人，博图软件会给出如下反馈。
 
