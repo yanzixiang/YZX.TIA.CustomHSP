@@ -12,12 +12,11 @@
 ![](https://github.com/yanzixiang/YZX.TIA.CustomHSP/blob/master/images/%E6%97%A0%E5%8A%A8%E4%BD%9C.png?raw=true)
 ![](https://github.com/yanzixiang/YZX.TIA.CustomHSP/blob/master/images/%E5%85%A8%E9%83%A8%E6%8E%A5%E5%8F%97.jpg?raw=true)
 
-5.为解决此痛点，特推出自定义硬件支持包服务，只需提供博图版本号和上图中"无动作"前红圏内的信息，即可为您生成一份自定义硬件支持包，
-  将自定义硬件支持包在博图安装目录下解压缩，重启博图后即可像官方支持一样使用不被支持的产品。
-![](
-  https://github.com/yanzixiang/YZX.TIA.CustomHSP/blob/master/images/%E6%9B%B4%E6%8D%A2%E8%AE%BE%E5%A4%87.jpg?raw=true)
-![](
-  https://github.com/yanzixiang/YZX.TIA.CustomHSP/blob/master/images/%E4%B8%80%E8%87%B4%E6%80%A7%E4%B8%8B%E8%BD%BD.jpg?raw=true) 
+5. 为解决此痛点，特推出自定义硬件支持包服务，只需提供博图版本号和上图中"无动作"前红圏内的信息，即可为您生成一份自定义硬件支持包，
+   将自定义硬件支持包在博图安装目录下解压缩，重启博图后即可像官方支持一样使用不被支持的产品。
+![](https://github.com/yanzixiang/YZX.TIA.CustomHSP/blob/master/images/%E6%9B%B4%E6%8D%A2%E8%AE%BE%E5%A4%87.jpg?raw=true)
+![](https://github.com/yanzixiang/YZX.TIA.CustomHSP/blob/master/images/%E4%B8%80%E8%87%B4%E6%80%A7%E4%B8%8B%E8%BD%BD.jpg?raw=true) 
+
 
 6. 按每个版本每个订货号500元收取费用。请使用支付宝付款，并提供相应图片。
 
