@@ -17,7 +17,6 @@
 ![](https://github.com/yanzixiang/YZX.TIA.CustomHSP/blob/master/images/%E6%9B%B4%E6%8D%A2%E8%AE%BE%E5%A4%87.jpg?raw=true)
 ![](https://github.com/yanzixiang/YZX.TIA.CustomHSP/blob/master/images/%E4%B8%80%E8%87%B4%E6%80%A7%E4%B8%8B%E8%BD%BD.jpg?raw=true) 
 
-
 6. 按每个版本每个订货号500元收取费用。请使用支付宝付款，并提供相应图片。
 
 |![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/SK/weixin.png)|![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/SK/891582546.jpg)|![](https://raw.githubusercontent.com/yanzixiang/ILoveWrittingChineseCharacters/master/SK/1580970624.jpg)|
